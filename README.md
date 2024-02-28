@@ -29,7 +29,7 @@
   <a href="https://t.me/+79176352507">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:vlad@webref.ru">
+  <a href="mailto:likershik@gmail.com">
   <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </div>
