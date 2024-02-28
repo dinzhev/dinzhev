@@ -26,7 +26,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/+79176352507">
+  <a href="https://t.me/dinzh73">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:likershik@gmail.com">
