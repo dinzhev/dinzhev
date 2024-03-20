@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/My%20CV-blue?style=plastic"/>
   </a>
 </div>
-
+<div align="center"><h3>Реализовано</h3><p>Два учебных проекта</p></p></div>
 <div align="center">
 <h3>Языки и инструменты</h3>
 </div>
