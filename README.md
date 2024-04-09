@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF6ZXB1MjZ1ZnZ2eHA3MDcwMnJvYm55M3V4dWxicTh4cTcycTRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="100"/>
 </div>
 <div ><h3>Меня зовут Денис Инжеваткин<p>QA Engineer</p></h3></div>
-<div >Стремлюсь стать частью команды, накапливать опыт и применять знания на практике, <p>чтобы добиться качественных результатов в работе.</p></div>
+<div >Ответственный и способный к самообучению QA Engineer, стремлюсь накапливать опыт и применять знания на практике, <p>чтобы добиться качественных результатов в работе.</p></div>
 <div ><h3>Реализовано</h3><p>• Два учебных проекта <p>• Участие в Open Source</p></p></p></div><p></p>
 
 <div id="badges" >
