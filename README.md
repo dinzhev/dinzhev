@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAzeDljbHg5aTc5czc0eDkycWU0bzFwNXF2Mm1rcTVzNnRta281MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NrdTqb3RMub0N2fAIF/giphy.gif" width="100"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI2NTI1NTEsIm5iZiI6MTcxMjY1MjI1MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA5VDA4NDQxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyMDc4ZDc2M2Q3ZDY0OGNiNGU5OTU5ZmIwNzVhMWYyNjFjZTg5MzE0ZWNiZmFmZGUyMGY3ZWE4M2U4NWYwMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vZ_w-afXe8SyIBwKb4mw0p0JAGJjr-rw7eRhpaT2ESc" width="100"/>
 </div>
 <div align="center"><h3>Меня зовут Денис Инжеваткин<p>QA Engineer</p></h3></div>
 <div align="center">Моя цель - стать частью команды, накапливать опыт и применять знания на практике, <p>чтобы добиться качественных результатов в работе.</p></div>
